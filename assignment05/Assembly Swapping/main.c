@@ -33,7 +33,7 @@ int swapCharsAsm(char *var1, char *var2) {
         "MOVS R0, #1\n"        // If they're not equal, set R0 = 1
         "B out\n"              // Jump to end of function (skip "same" branch)
         "same:\n"              // Start of "same" branch instruction
-        "MOVS R0, #0\n"        // Set R0 = 0 if values are not equal (Z flag is set)
+        "MOVS R0, #0\n"        // Set R0 = 0 if values are equal (Z flag is set)
         "out:\n"               // Start of "out" branch instruction
         : "=r"(ident)          // Set "ident" variable to value in R0 (ident = R0)
         );
