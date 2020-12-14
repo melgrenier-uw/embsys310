@@ -12,4 +12,4 @@
 
    ##### c. Share a screen shot of the local variables inside of “main” after the function swap_pointer() returns showing the values of the pointers and what they are pointing to.
 
-   ![image-20201212193931451](../Local_Variables_Assign5.png)
+   ![Local_Variables_Assign5](../../Local_Variables_Assign5.png)

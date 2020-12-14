@@ -1,1 +1,1 @@
-![image-20201212213107655](../Assembly_Division.png)
+![Assembly_Division](../../Assembly_Division.png)
