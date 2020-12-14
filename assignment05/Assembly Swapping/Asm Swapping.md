@@ -1,0 +1,1 @@
+Swap function using inline assembly. It includes the "bonus" task to return 1 if the chars are not the same, and to return 0 if they are the same.
